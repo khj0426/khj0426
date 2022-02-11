@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khj0426&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/khj0426/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khj0426)](https://solved.ac/khj0426/)
