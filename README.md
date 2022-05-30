@@ -4,7 +4,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=khj0426)](https://solved.ac/khj0426)
+![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=khj0426)](https://solved.ac/khj0426)
 
 <a href = "https://khj0426.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
  ##
