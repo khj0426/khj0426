@@ -1,4 +1,5 @@
 import feedparser, time
+from urllib.parse import quote
 
 URL = "https://hj-devlog.vercel.app/feed.xml"
 RSS_FEED = feedparser.parse(URL)
@@ -14,7 +15,8 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        encoded_link = quote(feed['link'], safe="/:")
+        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({encoded_link}) <br/>\n"
         
 f = open("README.md", mode="w", encoding="utf-8")
 f.write(markdown_text)
