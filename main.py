@@ -1,6 +1,6 @@
 import feedparser, time
 
-URL = "https://hj-devlog.vercel.app"
+URL = "https://hj-devlog.vercel.app/feed.xml"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
