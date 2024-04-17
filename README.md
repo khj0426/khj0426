@@ -1,6 +1,7 @@
 
 ## ✅ Latest Blog Post
 
+[2024/04/16 - 뒤죽박죽 코드블록 컴포넌트 뜯어 고치기](https://hj-devlog.vercel.app/blog/%EB%92%A4%EC%A3%BD%EB%B0%95%EC%A3%BD%20%EC%BD%94%EB%93%9C%EB%B8%94%EB%A1%9D%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%9C%AF%EC%96%B4%20%EA%B3%A0%EC%B9%98%EA%B8%B0) <br/>
 [2024/04/15 - React에서 좋지않은 환경에서의 API요청 처리하기](https://hj-devlog.vercel.app/blog/React%EC%97%90%EC%84%9C%20%EC%A2%8B%EC%A7%80%EC%95%8A%EC%9D%80%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20API%EC%9A%94%EC%B2%AD%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 [2024/03/29 - useCallback훅 알아보기](https://hj-devlog.vercel.app/blog/useCallback%ED%9B%85%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0) <br/>
 [2024/03/17 - isLoading vs isFetching](https://hj-devlog.vercel.app/blog/isLoading%20vs%20isFetching) <br/>
@@ -11,4 +12,3 @@
 [2024/02/13 - 모던 리액트 11장](https://hj-devlog.vercel.app/blog/%EB%AA%A8%EB%8D%98%20%EB%A6%AC%EC%95%A1%ED%8A%B8%2011%EC%9E%A5) <br/>
 [2024/02/01 - 서버 컴포넌트에서 Blur이미지 처리하기](https://hj-devlog.vercel.app/blog/%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C%20Blur%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
 [2024/01/30 - 모던 리액트 5장](https://hj-devlog.vercel.app/blog/%EB%AA%A8%EB%8D%98%20%EB%A6%AC%EC%95%A1%ED%8A%B8%205%EC%9E%A5) <br/>
-[2024/01/25 - recoil을 이용해 모달을 관리해보자](https://hj-devlog.vercel.app/blog/recoil%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EB%AA%A8%EB%8B%AC%EC%9D%84%20%EA%B4%80%EB%A6%AC%ED%95%B4%EB%B3%B4%EC%9E%90) <br/>
