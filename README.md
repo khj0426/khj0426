@@ -1,6 +1,7 @@
 
 ## ✅ Latest Blog Post
 
+[2024/06/28 - [짧]SVG를 리액트에서 써보자](https://hj-devlog.vercel.app/blog/%5B%EC%A7%A7%5DSVG%EB%A5%BC%20%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%8D%A8%EB%B3%B4%EC%9E%90) <br/>
 [2024/06/15 - Next js app Route의 캐싱-DataCache](https://hj-devlog.vercel.app/blog/Next%20js%20app%20Route%EC%9D%98%20%EC%BA%90%EC%8B%B1-DataCache) <br/>
 [2024/06/12 - date-fns로 알잘딱 달력 컴포넌트 만들기](https://hj-devlog.vercel.app/blog/date-fns%EB%A1%9C%20%EC%95%8C%EC%9E%98%EB%94%B1%20%EB%8B%AC%EB%A0%A5%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0) <br/>
 [2024/06/08 - 서버컴포넌트에서의 CSS](https://hj-devlog.vercel.app/blog/%EC%84%9C%EB%B2%84%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20CSS) <br/>
@@ -11,4 +12,3 @@
 [2024/05/11 - Sentry를 잘 쓰기 위한 고민](https://hj-devlog.vercel.app/blog/Sentry%EB%A5%BC%20%EC%9E%98%20%EC%93%B0%EA%B8%B0%20%EC%9C%84%ED%95%9C%20%EA%B3%A0%EB%AF%BC) <br/>
 [2024/05/05 - svg+xml but dangerouslyAllowSVG is disabled에러](https://hj-devlog.vercel.app/blog/svg%2Bxml%20but%20dangerouslyAllowSVG%20is%20disabled%EC%97%90%EB%9F%AC) <br/>
 [2024/04/28 - Next js app Route의 캐싱-RouterCache](https://hj-devlog.vercel.app/blog/Next%20js%20app%20Route%EC%9D%98%20%EC%BA%90%EC%8B%B1-RouterCache) <br/>
-[2024/04/27 - Next js app Route의 캐싱-RequestMemorization](https://hj-devlog.vercel.app/blog/Next%20js%20app%20Route%EC%9D%98%20%EC%BA%90%EC%8B%B1-RequestMemorization) <br/>
