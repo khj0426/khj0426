@@ -9,7 +9,7 @@
 - 👀 프로그래머스 웹 데브코스 4기  <i>(2023.06~2023.12)</i>
 
 ## ✅ Latest Blog Post
-
+[2024/12/22 - 디자인 시스템을 만들어보면서](https://beaded-menu-418.notion.site/ab15b9f41a324b8e95cbf13dc3144571)
 [2024/08/15 - 페이지의 흐름을 제어해보자](https://hj-devlog.vercel.app/blog/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EC%A0%9C%EC%96%B4%ED%95%B4%EB%B3%B4%EC%9E%90) <br/>
 [2024/07/27 - GA를 블로그에 녹여보자](https://hj-devlog.vercel.app/blog/GA%EB%A5%BC%20%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90%20%EB%85%B9%EC%97%AC%EB%B3%B4%EC%9E%90) <br/>
 [2024/07/04 - TQ로 SSR처리하기](https://hj-devlog.vercel.app/blog/TQ%EB%A1%9C%20SSR%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) <br/>
