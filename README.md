@@ -9,6 +9,7 @@
 - 👀 프로그래머스 웹 데브코스 4기  <i>(2023.06~2023.12)</i>
 
 ## ✅ Latest Blog Post
+[2024/12/31 - 안녕 2024](https://hj-devlog.vercel.app/blog/2024%EB%85%84%20%ED%9A%8C%EA%B3%A0)
 [2024/12/22 - 디자인 시스템을 만들어보면서](https://beaded-menu-418.notion.site/ab15b9f41a324b8e95cbf13dc3144571)
 <br />
 [2024/08/15 - 페이지의 흐름을 제어해보자](https://hj-devlog.vercel.app/blog/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%9D%98%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EC%A0%9C%EC%96%B4%ED%95%B4%EB%B3%B4%EC%9E%90) <br/>
