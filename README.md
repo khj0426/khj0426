@@ -10,6 +10,7 @@
 
 ## ✅ 최근 블로그 글
 
+[2025/07/07 - 2025 상반기 회고 -2탄](https://khj0426.notion.site/2299021512de805eb695e3e7655161f0) <br />
 [2025/06/06 - 2025 상반기 회고-1탄](https://hj-devlog.vercel.app/blog/2025%20%EC%83%81%EB%B0%98%EA%B8%B0%20%ED%9A%8C%EA%B3%A0-1%ED%83%84) <br/>
 [2025/05/25 - Hydration에러 선언적으로 해결하기](https://hj-devlog.vercel.app/blog/Hydration%EC%97%90%EB%9F%AC%20%EC%84%A0%EC%96%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0) <br/>
 [2025/02/23 - 잘하는 프론트엔드 개발자란](https://hj-devlog.vercel.app/blog/%EC%9E%98%ED%95%98%EB%8A%94%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9E%80) <br/>
