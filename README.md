@@ -1,8 +1,9 @@
-Hello! I'm Hyojung Kim, a Frontend Developer.
+
 
 I'm Hyojung Kim, a Frontend Developer who always strives to be a comfortable and collaborative team member. I understand the joy of growing together by persistently delving into the "why" when selecting technologies
 
 - toss securities Product Stability Team (2025.03.10 ~ )
+- Upsight (2024.08 ~ 2024.11)
 
 ## Retrospectives 
 
