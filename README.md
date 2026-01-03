@@ -8,6 +8,10 @@
 - 💙 주식회사 업사이트 프론트엔드 인턴 (2024.08 ~ 2024.11)
 - 💙 프로그래머스 프론트엔드 데브코스 (2023.06 ~ 2023.11)
 
+## 회고모음
+
+https://github.com/khj0426/reflection
+
 ## 기술적으로 여러 고민 + 해결했던 기록들 모음
 
 - [브라우저의 탭간 데이터 동기화를 BroadCastChannel로 해결했던 경험](https://beaded-menu-418.notion.site/26ec0ea540f780ef800bcb3e57cd3982?pvs=73)
