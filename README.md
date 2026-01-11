@@ -5,11 +5,11 @@ I'm Hyojung Kim, a Frontend Developer who always strives to be a comfortable and
 - toss securities Product Stability Team (2025.03.10 ~ )
 - Upsight (2024.08 ~ 2024.11)
 
-## Retrospectives 
+## 회고
 
 https://github.com/khj0426/reflection
 
-## Recent Blog Posts
+## 블로그 글
 
 [2025/06/06 - 2025 상반기 회고-1탄](https://hj-devlog.vercel.app/blog/2025%20%EC%83%81%EB%B0%98%EA%B8%B0%20%ED%9A%8C%EA%B3%A0-1%ED%83%84) <br/>
 [2025/05/25 - Hydration에러 선언적으로 해결하기](https://hj-devlog.vercel.app/blog/Hydration%EC%97%90%EB%9F%AC%20%EC%84%A0%EC%96%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%20%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0) <br/>
