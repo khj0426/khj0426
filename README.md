@@ -2,12 +2,21 @@
 
 I'm Hyojung Kim, a Frontend Developer who always strives to be a comfortable and collaborative team member. I understand the joy of growing together by persistently delving into the "why" when selecting technologies
 
-- toss securities Product Stability Team (2025.03.10 ~ )
+- toss securities Product Stability Team (2025.03.10 ~ ) 
+  -  Built a custom CRM system to manage 1,500-1,700 daily customer interactions and consultations
 - Upsight (2024.08 ~ 2024.11)
+
 
 ## 회고
 
 https://github.com/khj0426/reflection
+
+## 기술적으로 여러 고민 + 해결했던 기록들 모음
+
+- [브라우저의 탭간 데이터 동기화를 BroadCastChannel로 해결했던 경험](https://beaded-menu-418.notion.site/26ec0ea540f780ef800bcb3e57cd3982?pvs=73)
+- [usePreservedCallback훅에 대해서](https://beaded-menu-418.notion.site/usePreserverCallback-1fe0e7b922b44910b816b47f78d881a0?pvs=74)
+- [tanstack-query와 react-hook-form의 데이터 동기화에 대해서](https://beaded-menu-418.notion.site/invalidateQueries-1c6c0ea540f780d9bcbff3161c6e2926?pvs=74)
+- [Next의 하이드레이션 문제를 깔끔하게 해결하는 방법에 대해](https://beaded-menu-418.notion.site/11ea428552764b4a95fc179b3d35c2f4)
 
 ## 블로그 글
 
