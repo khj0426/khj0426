@@ -11,6 +11,10 @@ I'm Hyojung Kim, a Frontend Developer who always strives to be a comfortable and
 
 https://github.com/khj0426/reflection
 
+## 2026-상반기
+
+https://beaded-menu-418.notion.site/2026-377c0ea540f780d9bba8e8461000ce78
+
 ## 블로그 글
 
 [2025/06/06 - 2025 상반기 회고-1탄](https://hj-devlog.vercel.app/blog/2025%20%EC%83%81%EB%B0%98%EA%B8%B0%20%ED%9A%8C%EA%B3%A0-1%ED%83%84) <br/>
